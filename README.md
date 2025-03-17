@@ -1,1 +1,2 @@
-# noenv.github.io
+#REDIRECT https://burnthewhich.github.io/shbangenv/shbangenv
+
